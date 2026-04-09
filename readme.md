@@ -81,7 +81,7 @@ I enjoy exploring datasets, identifying trends, and communicating findings throu
   <a href="mailto:gopikasakthivel1979@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://gopika-ai.netlify.app/" target="_blank">
+  <a href="https://gopi-tech.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gopika-s-974a0b349/" target="_blank">
