@@ -59,9 +59,9 @@ Building AI-powered applications, intelligent automation systems, and scalable f
 
 # 🚀 Featured Projects
 
-## 🤖 AI Study Planner
-## 🍽 College Canteen Live Token System
-## 🎓 Smart Student Management Portal
+- 🤖 AI Study Planner
+- 🍽 College Canteen Live Token System
+- 🎓 Smart Student Management Portal
 
 ---
 
