@@ -60,40 +60,8 @@ Building AI-powered applications, intelligent automation systems, and scalable f
 # 🚀 Featured Projects
 
 ## 🤖 AI Study Planner
-
-- Smart study planner
-- Goal tracking
-- Timetable generation
-- Progress analytics
-
----
-
 ## 🍽 College Canteen Live Token System
-
-- Live Token Tracking
-- QR Ordering
-- Admin Dashboard
-- Payment Integration
-- Real-time Order Status
-
----
-
 ## 🎓 Smart Student Management Portal
-
-- Attendance
-- Student Records
-- Dashboard
-- Notifications
-- Academic Analytics
-
----
-
-## 🏥 MediScan AI
-
-- AI-assisted healthcare platform
-- Intelligent medical insights
-- Medical report analysis
-- AI-powered recommendations
 
 ---
 
