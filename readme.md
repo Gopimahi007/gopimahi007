@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm **Gopika S!**
 
-### 🤖 AI Engineer | 💻 AI Full Stack Developer | 🚀 Freelancer
+### 🤖 AI Engineer | 💻 AI Full Stack Developer |
 
 Welcome to my GitHub profile!
 
@@ -62,17 +62,13 @@ A full-stack canteen management platform with live token tracking, online orderi
 
 A smart college management platform designed to streamline student records, attendance, notices, and dashboard-based academic management.
 
-### 🏥 MediScan AI
-
-An AI-powered healthcare-focused project exploring intelligent analysis and technology-driven solutions for real-world medical applications.
-
 ---
 
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://gopimahi007.vercel.app/api?username=Gopimahi007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://gopimahi007.vercel.app/api/top-langs/?username=Gopimahi007&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://gopimahi007.vercel.app/api?username=gopika512&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://gopimahi007.vercel.app/api/top-langs/?username=gopika512&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
 ---
@@ -80,7 +76,7 @@ An AI-powered healthcare-focused project exploring intelligent analysis and tech
 ## 🔥 **GitHub Streak**
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gopimahi007&theme=tokyonight&hide_border=true" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gopika512&theme=tokyonight&hide_border=true" width="80%" />
 </p>
 
 ---
@@ -88,7 +84,7 @@ An AI-powered healthcare-focused project exploring intelligent analysis and tech
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gopimahi007&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gopika512&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -96,7 +92,7 @@ An AI-powered healthcare-focused project exploring intelligent analysis and tech
 ### 🌱 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopimahi007&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika512&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -104,7 +100,7 @@ An AI-powered healthcare-focused project exploring intelligent analysis and tech
 ### 👀 Profile Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gopimahi007&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=gopika512&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -127,4 +123,4 @@ An AI-powered healthcare-focused project exploring intelligent analysis and tech
 
 ## ✨ **Quote I Believe In**
 
-> *“The best way to predict the future is to invent it.”* — Alan Kay
+> *“The best way to predict the future is to invent it.”*
