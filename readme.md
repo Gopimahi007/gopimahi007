@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm **Gopika S!**
 
-### 🤖 AI Engineer | 💻 AI Full Stack Developer | 🚀 Freelancer
+### 🤖 AI Engineer | 💻 AI Full Stack Developer | 
 
 Welcome to my GitHub profile!
 
