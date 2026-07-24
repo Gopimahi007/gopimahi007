@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Gopika S</h1>
 
 <h3 align="center">
-AI Engineer • AI Full Stack Developer • Freelancer
+AI Engineer • AI Full Stack Developer 
 </h3>
 
 <p align="center">
