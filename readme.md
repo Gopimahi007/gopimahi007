@@ -99,13 +99,10 @@ Building AI-powered applications, intelligent automation systems, and scalable f
 
 # 🏆 GitHub Statistics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gopika512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopika512&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+<p align="center"> 
+  <img src="https://gopimahi007.vercel.app/api?username=gopika512&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  
+  <img src="https://gopimahi007.vercel.app/api/top-langs/?username=gopika512&layout=compact&theme=tokyonight&hide_border=true" width="41%" /> </p>
 
 ---
 
